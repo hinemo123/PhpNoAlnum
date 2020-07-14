@@ -17,7 +17,7 @@ git clone https://github.com/tsug0d/PhpNoAlnum.git
 ```
 
 😎 Go to its directory:
-```css
+```cssaaaaaaaaaaaaa
 cd PhpNoAlnum
 ```
 
